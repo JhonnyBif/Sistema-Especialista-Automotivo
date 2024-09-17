@@ -2,6 +2,7 @@ import pandas as pd
 from experta import *
 
 ## Install pip install experta
+## pip install pandas openpyxl
 
 ## Caso não funcioned dê os seguintes comandos:
 ### python -m site
