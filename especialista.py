@@ -107,4 +107,5 @@ if __name__ == "__main__":
     
     # Rodar o sistema
     engine.run()
+    input("Pressione Enter para sair...")
 
